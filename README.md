@@ -1,5 +1,5 @@
 # openai-discord-chatbot
 Python OpenAI API Chatbot
-
-put your openAPI KEY HERE:
+<br/>
+put your openAPI KEY HERE: <br/>
     openai-discord-chatbot/chat.py line 3

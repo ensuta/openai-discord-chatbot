@@ -6,4 +6,4 @@ put your openAPI KEY HERE: <br/>
 <br/><br/>
 
 put your discord Bot KEY HERE: <br/>
-    openai-discord-chatbot/app.py line 23
+    openai-discord-chatbot/app.py line 27
